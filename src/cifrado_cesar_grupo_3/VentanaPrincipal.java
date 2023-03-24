@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * Grupo 3 Ciberseguridad Mabel Vargas Sebastian Parra Sergio Montenegro
+ * Grupo 3 Ciberseguridad Mabel Vargas
  */
 public class VentanaPrincipal extends javax.swing.JFrame {
 
